@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+    margin-top: 40px;
+    padding: 0 4%;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+ul {
+    margin-top: 40px;
+    margin-left: 24px;
+}
+
+li {
+    margin-top: 16px;
+    font-size: 20px;
+    list-style-type: square;
+}
+
+a {
+    color: blue;
+}
